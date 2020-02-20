@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin: auto;
+}
+
+
+.main{
+    border: solid purple;
+    margin:  70px;
+    background-color: white;
+    width: 600px;
+    border-radius: 30px;
+}
+
+.bio{
+    border: solid;
+    background-color:purple ;
+    margin: 20px 0px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+button{
+    background-color:green;
+    color: white;
+    width: 80px;
+    padding: 5px;
+    
+}
+
+a{
+    color: white;
+    text-decoration:none ;
+}
+
+a:hover{
+    color: yellow;
+}
+
+
+.images{
+    text-align: center;
+    margin: 15px;
+}
+
+.pass{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+input{
+    width: 150px;
+}
